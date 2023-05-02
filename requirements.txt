@@ -1,0 +1,10 @@
+
+ Lists the necessary libraries to run the project in a Jupyter notebook
+ 
+ pandas, missingno, re, unicode, marplotlib, seaborn
+ 1. pandas as pd para manejar los datos
+ 2. missingno as msno para visualizar los valores faltantes en el df
+ 3. re para revizar las coincidencias que debo eliminar del documento
+ 4. unidecode para eliminar tildes y mayusculas
+ 5. matplotlib.pyplot as plt para crear graficos
+ 6. seaborn as sns para el grafico heatmap 
